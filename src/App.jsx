@@ -14,15 +14,15 @@
   // import About from './Routing_Task/About';
   // import SignIn from './Routing_Task/SignIn'
   // import Footer from './Routing_Task/Footer';
-  // import ImageUploading from './Routing_Task/ImageUploading'
+  import ImageUploading from './ImageUploading'
 // // ---Routing task end--
 
- import FormValidation from './FormValidation';
+ //import FormValidation from './FormValidation';
 
 function App(){
    return(
     <>
-    <FormValidation/>
+    <ImageUploading/>
     </>
    )
 }
